@@ -1,4 +1,4 @@
-const lib = require('./lib.js')
+const lib = require('./lib1.js')
 
 console.log(lib)
 lib.awesomeFunction()
